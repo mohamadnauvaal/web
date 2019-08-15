@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>kurirq</name>
+    <displayName><![CDATA[KurirQ]]></displayName>
+    <version><![CDATA[1.0.11]]></version>
+    <description><![CDATA[All in one Indonesian shipping module using carrier such as JNE, TIKI, WAHANA, POS, etc. Support domestic and international shipment.]]></description>
+    <author><![CDATA[Prestanesia]]></author>
+    <tab><![CDATA[shipping_logistics]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

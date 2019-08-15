@@ -1,0 +1,7 @@
+AuthName "hammerstoutdenim.com statistics"
+AuthType Basic
+AuthUserFile /home/hammerstoutdenim/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>
